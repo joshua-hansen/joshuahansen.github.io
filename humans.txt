@@ -1,0 +1,16 @@
+/* TEAM */
+Developer: Joshua Hansen
+Contact: me@joshuaha.dev
+Github: joshua-hansen
+Location: Minnesota, US
+
+/* THANKS */
+Friend: p@uly.io
+Pixelarity: https://pixelarity.com/
+Tarptaeya: https://github.com/Tarptaeya
+
+/* SITE */
+Last update: 2022/04/10
+Standards: HTML5, SASS
+Components: HTML5UP, Font-Awesome
+Software: VSCode, Python3, Github Pages
