@@ -1,12 +1,6 @@
 @import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
 
-/*
-	Prologue by Pixelarity
-	pixelarity.com | hello@pixelarity.com
-	License: pixelarity.com/license
-*/
-
 html,
 body,
 div,
@@ -2339,6 +2333,10 @@ button:active,
 	border-left: 0;
 	padding-left: 0;
 	margin-left: 0;
+}
+
+#footer .heart {
+	color: #ff4033
 }
 
 /* Main */
